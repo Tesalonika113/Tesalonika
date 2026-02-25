@@ -1,4 +1,3 @@
-[Tesalonikabatam.html](https://github.com/user-attachments/files/25535462/Tesalonikabatam.html)
 <!DOCTYPE html>
 <html lang="id">
 <head>
